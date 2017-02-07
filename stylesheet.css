@@ -67,15 +67,14 @@ body {
    margin: 7px;
 
    border-radius: 5px;
-   -moz-border-radius: 5px;
-   border: 1 px solid #000; 
+   border: 1px solid #000; 
   
-   background: -moz-linear-gradient(top, #666, #333);
+   background: linear-gradient(top, #666, #333);
 }
 
 #divNav ul li a:hover {
    background: #333;
-   background: -moz-linear-gradient(top, #000, #666);
+   background: linear-gradient(top, #000, #666);
 }
 
 #divNav ul li a.current, #divNav ul li a.current:hover {
@@ -87,7 +86,7 @@ body {
 
 #divAbout {
    background-color: #f2f2f2;
-   border: 1 px solid #c0c0c0;
+   border: 1px solid #c0c0c0;
    height: 400px;
    margin: 0 auto;
    position: relative;
