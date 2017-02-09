@@ -8,52 +8,52 @@ body {
    background-color: #ffffff;
 }
 
-#divWrapper {
+#erapper {
    width: 700px;
    margin: 10px auto 0px auto;
 }
    
-#divHeader {
+#header {
    width: 700px;
    height: 200px;
    background-image: url("http://tlo-na-fb.pl/images/thumbs/529957671dba464c23978a92d6fa4db6.jpg");
    text-align: center;
 }
 
-#divHeader p {
+#header p {
    padding: 60px;
    font-size: 50px;
    color:  #ac3973;
 }
 
 
-#divLine {
+#line {
    width: 700px;
    background-color: #999;
    height: 1px;
 }
 
-#divLinks {
+#links {
    width: 700px;
    background-color: #666;
 }
 
-#divNav {
+#nav {
    width: 384px;
    background-color: #666;
    height: 36px;
    margin: 0 auto;
 }
 
-#divNav ul {
+#nav ul {
    list-style-type: none;
 }
 
-#divNav ul li {
+#nav ul li {
    float: left;
 }
 
-#divNav ul li a {
+#nav ul li a {
    display: block;
    height: 20px;
    line-height: 20px;
@@ -70,19 +70,19 @@ body {
    background: linear-gradient(to top, #666, #333);
 }
 
-#divNav ul li a:hover {
+#nav ul li a:hover {
    background: #333;
    background: linear-gradient(to top, #000, #666);
 }
 
-#divNav ul li a.current, #divNav ul li a.current:hover {
+#nav ul li a.current, #divNav ul li a.current:hover {
    background-color: #333;
    background: linear-gradient(to top, #000, #666);
    color: #f63;
    cursor: default;
 }
 
-#divAbout {
+#about {
    background-color: #f2f2f2;
    border: 1px solid #c0c0c0;
    height: 400px;
@@ -90,7 +90,7 @@ body {
    position: relative;
 }
 
-#divContent {
+#content {
     width: 500px;
     background: #696969;
     border: 1px solid #000000;
@@ -103,7 +103,7 @@ body {
 
 }
 
-#divContent img { 
+#content img { 
    border: 1px solid #000000;
    border-radius: 10px;
    background: #696969;
@@ -111,12 +111,12 @@ body {
    margin: 7px 7px 0px 7px;
 }
 
-#divContent h5 {
+#content h5 {
    color: #ffffff;
    padding-top: 10px;
 }
 
-#divContent p {
+#content p {
    color: #1a1a1a;
    font-size: 0.9em;
    line-height: 1.4em;
@@ -124,7 +124,7 @@ body {
    text-align: justify;
 }
 
-#divFooter {
+#footer {
    background: #25241c;
    height: 15px;
 }
